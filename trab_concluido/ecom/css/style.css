@@ -1,0 +1,48 @@
+.scrollspySite {
+  position: relative;
+  overflow: auto;
+  height: 340px; }
+
+/* Make the image fully responsive */
+.carousel-inner img {
+  max-height: 400px;
+  width: 100%;
+  height: 100%; 
+}
+
+.navbar-brand, h1, h2, .p1, .pdif {
+	font-family: 'Krona One', sans-serif;
+}
+
+p {
+	font-size: 15pt;
+}
+
+.jenkins {
+	color: tomato;
+}
+
+.card-curioso {
+	margin-top: -30px;
+}
+
+.nav-item {
+	max-width: 100%;
+}
+
+.n0 {
+	margin-bottom:-15px; 
+	margin-top:-15px;
+}
+
+.n1 {
+	margin-bottom: -15px;
+}
+
+.n6 {
+	margin-top: -15px;
+}
+
+p.text-info {
+	font-size: 15px;
+}
